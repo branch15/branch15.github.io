@@ -1,0 +1,14 @@
+# Numerous always-ignore extensions
+*.swp
+*.vi
+*~
+*.sass-cache
+.sass-cache
+.sass-cache/*
+
+# OS or Editor folders
+.DS_Store
+Thumbs.db
+
+# Folders to ignore
+_site
